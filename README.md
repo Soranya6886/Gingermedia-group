@@ -5,7 +5,7 @@ Please unzip the folder to find 2 different folders for front-end and Back-end c
 FE folder - ginder-react, 
 BE folder - ginder-node
 
-(Demo URL: https://drive.google.com/file/d/1NQR4D-SwK2EP-z-ItF3gk1goG9WCdhTX/view?usp=sharing)
+Demo Video(googole drive link): https://drive.google.com/file/d/1NQR4D-SwK2EP-z-ItF3gk1goG9WCdhTX/view?usp=sharing
 
 Pre-requisite: Node js and npm should be installed in local machine.
 
