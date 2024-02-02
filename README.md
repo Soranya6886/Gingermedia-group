@@ -23,7 +23,7 @@ run-> 'npm start' to run the app under http://localhost:5000
 
 DB: I used mongo DB as the DB storage, as I am not much aware of MySql.
 
-Connection to DB: DB url are mentioned in Node JS config file to connect to DB and showed the table how it got updated in table via Demo video.
+Connection to DB: DB url are mentioned in Node JS config file to connect to DB(In order to run the app local IP address needs to add my mongoDB network access config) and showed the table how it got updated in table via Demo video.
 
 Screenshots:
 
