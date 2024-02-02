@@ -1,6 +1,6 @@
-How to Run the Gingermedia app: 
+How to Run the Gingermedia app::: 
 Please unzip the folder to find 2 different folders for front-end and Back-end code.
-FE folder - ginder-react
+FE folder - ginder-react, 
 BE folder - ginder-node
 
 (Demo URL: https://drive.google.com/file/d/1NQR4D-SwK2EP-z-ItF3gk1goG9WCdhTX/view?usp=sharing)
