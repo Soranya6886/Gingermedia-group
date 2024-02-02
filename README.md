@@ -3,6 +3,8 @@ Please unzip the folder to find 2 different folders for front-end and Back-end c
 FE folder - ginder-react
 BE folder - ginder-node
 
+(Demo URL: https://drive.google.com/file/d/1NQR4D-SwK2EP-z-ItF3gk1goG9WCdhTX/view?usp=sharing)
+
 Pre-requisite: Node js and npm should be installed in local machine.
 
 How to Front end code: 
@@ -30,7 +32,8 @@ Profile Details page:
 Profile Edit Page:
 ![image](https://github.com/Soranya6886/Gingermedia-group/assets/158595317/1846a4c9-18bf-4b28-9683-1ad3c2f241ea)
 
-
+DEMO URL:
+https://drive.google.com/file/d/1NQR4D-SwK2EP-z-ItF3gk1goG9WCdhTX/view?usp=sharing
 
 
 
